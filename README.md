@@ -1,0 +1,1 @@
+This repository contains example "hello-world-like" application based on Akka Framework.
